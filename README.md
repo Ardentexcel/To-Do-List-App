@@ -20,6 +20,6 @@ But that’s not the only benefits of a to do list. Here are a few more:
 * Helps with motivation: To do lists are a great motivational tool because you can use them to clarify your goals. You can divide your long-term goal into smaller, more achievable short-term goals and as you tick each one off your list, your confidence will increase.
 
 
-# lohin 
+# login
 user: abcd
 pass: 12345678
